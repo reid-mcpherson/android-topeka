@@ -15,4 +15,4 @@
  */
 
 
-include ':app'
+include ':topeka-lib', ':topekaapk', ':topekaatom', ':topekaia', ':topeka-ui-lib', ':topekabaseatom', ':topekauiatom'
